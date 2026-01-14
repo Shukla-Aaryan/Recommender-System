@@ -1,2 +1,11 @@
 artifacts/similarity.pkl filter=lfs diff=lfs merge=lfs -text
 artificats/similarity.pkl filter=lfs diff=lfs merge=lfs -text
+
+'''
+🧠 In short:
+Attribute	Meaning
+filter=lfs	Store file in Git Large File Storage
+diff=lfs	Don’t show normal diffs (use LFS handling)
+merge=lfs	Don’t merge line-by-line (use LFS handling)
+-text	Treat file as binary, not text
+'''

@@ -7,3 +7,9 @@ enableCORS = false\n\
 headless = true\n\
 \n\
 " > ~/.streamlit/config.toml
+
+'''
+it contains terminal commands
+it’s specifically meant for Streamlit Cloud deployment.
+used for system configuration,
+'''

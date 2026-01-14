@@ -24,3 +24,16 @@ setup(
     python_requires=">=3.7",
     install_requires=LIST_OF_REQUIREMENTS
 )
+
+'''
+setup.py is the Python setup script that tells Python how to install and package your project.
+It defines:
+
+Your project name and version
+
+The author and description
+
+What packages (modules) your code contains
+
+What dependencies (install_requires) need to be installed
+'''
