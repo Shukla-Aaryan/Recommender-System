@@ -132,7 +132,9 @@ pip install -r requirements.txt
 ### 4️⃣ Run the Application
 
 ```cmd
+If global installed Libraries then use the first cmd otherwise use the second one.
 streamlit run app.py
+python -m streamlit run app.py
 ```
 
 ### 5️⃣ Open in Browser
